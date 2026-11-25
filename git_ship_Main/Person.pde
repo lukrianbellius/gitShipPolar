@@ -96,7 +96,7 @@ class Person {
   void backdrop(){
     //fill left half of screen with something
     //0, 0 --> 12, 11.25
-    fill(grey);
+    fill(#1D5D02);
     rect(0, 0, width, 281.25);
   }
   
